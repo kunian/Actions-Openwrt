@@ -82,6 +82,8 @@ CONFIG_PACKAGE_igmpproxy=y
 # CONFIG_PACKAGE_kmod-scsi-core is not set
 # CONFIG_PACKAGE_kmod-sdhci is not set
 # CONFIG_PACKAGE_kmod-tulip is not set
+# CONFIG_PACKAGE_kmod-usb-core is not set
+# CONFIG_PACKAGE_kmod-usb-hid is not set
 # CONFIG_PACKAGE_kmod-usb-net is not set
 # CONFIG_PACKAGE_kmod-usb-net-asix is not set
 # CONFIG_PACKAGE_kmod-usb-net-asix-ax88179 is not set
@@ -145,6 +147,10 @@ CONFIG_TARGET_ROOTFS_PARTSIZE=80
 CONFIG_ZLIB_OPTIMIZE_SPEED=y
 CONFIG_PACKAGE_grub2-efi=y
 CONFIG_PACKAGE_kmod-fs-vfat=y
+CONFIG_PACKAGE_kmod-hid=y
+CONFIG_PACKAGE_kmod-hid-generic=y
+CONFIG_PACKAGE_kmod-input-core=y
+CONFIG_PACKAGE_kmod-input-evdev=y
 CONFIG_PACKAGE_kmod-libphy=y
 CONFIG_PACKAGE_kmod-mii=y
 CONFIG_PACKAGE_kmod-nls-cp437=y
