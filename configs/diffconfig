@@ -63,6 +63,7 @@ CONFIG_PACKAGE_igmpproxy=y
 # CONFIG_PACKAGE_kmod-fs-f2fs is not set
 # CONFIG_PACKAGE_kmod-fs-vfat is not set
 # CONFIG_PACKAGE_kmod-i40e is not set
+# CONFIG_PACKAGE_kmod-igbvf is not set
 # CONFIG_PACKAGE_kmod-igc is not set
 # CONFIG_PACKAGE_kmod-ip6tables is not set
 # CONFIG_PACKAGE_kmod-ipt-tproxy is not set
