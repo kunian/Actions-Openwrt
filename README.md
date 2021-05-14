@@ -9,14 +9,9 @@
 
 只适用于虚拟机上的软路由，启动时间11s左右。
 
-## THANKS TO P3TERX/Actions-OpenWrt
+## THANKS TO
 
-[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
+P3TERX:[Build OpenWrt using GitHub Actions](https://github.com/P3TERX/Actions-OpenWrt)
 
-Build OpenWrt using GitHub Actions
-
-[Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 
